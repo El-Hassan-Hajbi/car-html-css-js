@@ -1,0 +1,17 @@
+body {
+    background-color: darkgray;
+    margin: 0;
+    overflow: hidden;
+    text-align: center;
+}
+#myCanvas {
+    background-color: lightgray;
+}
+
+.Road {
+    color : white;
+    margin: 3;
+}
+.Car {
+    background-color: brown;
+}
